@@ -1,0 +1,9 @@
+C:\Users\ezge\source\repos\PizzaApp\bin\Debug\PizzaApp.exe.config
+C:\Users\ezge\source\repos\PizzaApp\bin\Debug\PizzaApp.exe
+C:\Users\ezge\source\repos\PizzaApp\bin\Debug\PizzaApp.pdb
+C:\Users\ezge\source\repos\PizzaApp\obj\Debug\PizzaApp.csprojResolveAssemblyReference.cache
+C:\Users\ezge\source\repos\PizzaApp\obj\Debug\PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\ezge\source\repos\PizzaApp\obj\Debug\PizzaApp.exe
+C:\Users\ezge\source\repos\PizzaApp\obj\Debug\PizzaApp.pdb
+C:\Users\ezge\source\repos\PizzaApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ezge\source\repos\PizzaApp\bin\Debug\Newtonsoft.Json.xml
